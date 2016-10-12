@@ -22,7 +22,7 @@ sfil='../rail281file'
 
 # new rails app  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-rails new $appn
+rails _4.2.6_ new $appn
 cd $appn
 pwd
 
