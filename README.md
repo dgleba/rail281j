@@ -21,11 +21,11 @@ This project is referenced at:  https://github.com/bigtunacan/rails-jquery-autoc
 
 ### Info:
 
-
+```
 echo "# rail281j" >> README.md
 git init
 git add .
-git commit -m "first commit"
+git commit -m "changes.."
 git remote add origin https://github.com/dgleba/rail281j.git
 git push -u origin master
-
+```
