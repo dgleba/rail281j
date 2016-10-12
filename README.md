@@ -18,3 +18,14 @@ To show an example of requiring the user to select an item from the suggestion l
 
 This project is referenced at:  https://github.com/bigtunacan/rails-jquery-autocomplete/issues/75
 
+
+### Info:
+
+
+echo "# rail281j" >> README.md
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/dgleba/rail281j.git
+git push -u origin master
+

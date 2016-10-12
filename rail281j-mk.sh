@@ -3,7 +3,7 @@
 date ; set +vx  ; set -vx ; # echo off, then echo on
 
 # this works.
-#
+# 
 # jquery-autocomplete  autocomplete for rails 4
 
 # usage: 
