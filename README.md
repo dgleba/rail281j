@@ -16,7 +16,10 @@ To show an example of requiring the user to select an item from the suggestion l
 
 - rails s
 
-- visit `localhost:3000/products` to run it.
+- visit `localhost:3000/products` to view the app.
+
+- enter 'ri' in the type_name field to see the autocomplete suggestion list.
+
 
 ### Ref:
 
