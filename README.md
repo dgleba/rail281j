@@ -12,6 +12,10 @@ To show an example of requiring the user to select an item from the suggestion l
 
 - this will create a rails app you can run as an example.
 
+- cd rail281j5
+
+- rails s
+
 - visit `localhost:3000/products` to run it.
 
 ### Ref:
