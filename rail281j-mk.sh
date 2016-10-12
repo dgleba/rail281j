@@ -141,6 +141,9 @@ line4='  root "products#index"'
 # multiple autocomplete... use this option... 'data-delimiter' => ','
 #
 pattern1='f.text_field :type_name'
+# for multiple autocomplete..
+# line1='   <%= f.autocomplete_field :type_name, autocomplete_type_name_products_path, \"data-delimiter\" => \", \" %>'  
+#
 line1='   <%= f.autocomplete_field :type_name, autocomplete_type_name_products_path %>'  
   sed  -i "0,/$pattern1/s/.*$pattern1.*/$line1\n/" app/views/products/_form.html.erb
 
